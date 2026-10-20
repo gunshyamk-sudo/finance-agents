@@ -1,0 +1,363 @@
+date,journal_id,account_code,account_name,description,debit,credit
+2026-01-01,JV0001,1000,Cash at Bank,Opening share capital,500000.0,0.0
+2026-01-01,JV0001,3000,Share Capital,Opening share capital,0.0,500000.0
+2026-01-01,JV0018,6100,Rent,Office rent,25000.0,0.0
+2026-01-01,JV0018,1000,Cash at Bank,Office rent,0.0,25000.0
+2026-01-03,JV0006,1100,Accounts Receivable,Sales invoice INV-104,9952.0,0.0
+2026-01-03,JV0006,4000,Product Revenue,Sales invoice INV-104,0.0,9952.0
+2026-01-04,JV0016,1000,Cash at Bank,Customer receipt,16078.0,0.0
+2026-01-04,JV0016,1100,Accounts Receivable,Customer receipt,0.0,16078.0
+2026-01-05,JV0003,1100,Accounts Receivable,Sales invoice INV-101,22628.0,0.0
+2026-01-05,JV0003,4000,Product Revenue,Sales invoice INV-101,0.0,22628.0
+2026-01-05,JV0014,1000,Cash at Bank,Customer receipt,24110.0,0.0
+2026-01-05,JV0014,1100,Accounts Receivable,Customer receipt,0.0,24110.0
+2026-01-06,JV0020,5000,Cost of Goods Sold,Cost of goods purchased,41763.0,0.0
+2026-01-06,JV0020,2000,Accounts Payable,Cost of goods purchased,0.0,41763.0
+2026-01-07,JV0008,1100,Accounts Receivable,Sales invoice INV-106,44781.0,0.0
+2026-01-07,JV0008,4000,Product Revenue,Sales invoice INV-106,0.0,44781.0
+2026-01-08,JV0026,6800,Marketing & Advertising,Marketing & Advertising - monthly,5241.0,0.0
+2026-01-08,JV0026,2000,Accounts Payable,Marketing & Advertising - monthly,0.0,5241.0
+2026-01-09,JV0002,1100,Accounts Receivable,Sales invoice INV-100,56598.0,0.0
+2026-01-09,JV0002,4000,Product Revenue,Sales invoice INV-100,0.0,56598.0
+2026-01-11,JV0013,1000,Cash at Bank,Customer receipt,28210.0,0.0
+2026-01-11,JV0013,1100,Accounts Receivable,Customer receipt,0.0,28210.0
+2026-01-11,JV0019,6200,Utilities,DEWA utilities,2698.0,0.0
+2026-01-11,JV0019,2000,Accounts Payable,DEWA utilities,0.0,2698.0
+2026-01-14,JV0005,1100,Accounts Receivable,Sales invoice INV-103,46698.0,0.0
+2026-01-14,JV0005,4000,Product Revenue,Sales invoice INV-103,0.0,46698.0
+2026-01-15,JV0009,1100,Accounts Receivable,Sales invoice INV-107,22446.0,0.0
+2026-01-15,JV0009,4100,Service Revenue,Sales invoice INV-107,0.0,22446.0
+2026-01-17,JV0007,1100,Accounts Receivable,Sales invoice INV-105,23247.0,0.0
+2026-01-17,JV0007,4000,Product Revenue,Sales invoice INV-105,0.0,23247.0
+2026-01-18,JV0022,6320,Meals & Entertainment,Meals & Entertainment - monthly,2545.0,0.0
+2026-01-18,JV0022,2000,Accounts Payable,Meals & Entertainment - monthly,0.0,2545.0
+2026-01-18,JV0023,6400,Office Supplies,Office Supplies - monthly,5303.0,0.0
+2026-01-18,JV0023,2000,Accounts Payable,Office Supplies - monthly,0.0,5303.0
+2026-01-23,JV0012,1000,Cash at Bank,Customer receipt,37696.0,0.0
+2026-01-23,JV0012,1100,Accounts Receivable,Customer receipt,0.0,37696.0
+2026-01-23,JV0025,6700,Professional Fees,Professional Fees - monthly,1639.0,0.0
+2026-01-23,JV0025,2000,Accounts Payable,Professional Fees - monthly,0.0,1639.0
+2026-01-24,JV0004,1100,Accounts Receivable,Sales invoice INV-102,52348.0,0.0
+2026-01-24,JV0004,4000,Product Revenue,Sales invoice INV-102,0.0,52348.0
+2026-01-25,JV0011,1000,Cash at Bank,Customer receipt,20463.0,0.0
+2026-01-25,JV0011,1100,Accounts Receivable,Customer receipt,0.0,20463.0
+2026-01-25,JV0015,1000,Cash at Bank,Customer receipt,32059.0,0.0
+2026-01-25,JV0015,1100,Accounts Receivable,Customer receipt,0.0,32059.0
+2026-01-25,JV0017,6000,Salaries & Wages,Monthly payroll,91224.0,0.0
+2026-01-25,JV0017,1000,Cash at Bank,Monthly payroll,0.0,91224.0
+2026-01-26,JV0010,1000,Cash at Bank,Customer receipt,10425.0,0.0
+2026-01-26,JV0010,1100,Accounts Receivable,Customer receipt,0.0,10425.0
+2026-01-26,JV0021,6310,Travel - Hotels,Travel - Hotels - monthly,1211.0,0.0
+2026-01-26,JV0021,2000,Accounts Payable,Travel - Hotels - monthly,0.0,1211.0
+2026-01-28,JV0024,6600,Telecom & Internet,Telecom & Internet - monthly,6425.0,0.0
+2026-01-28,JV0024,2000,Accounts Payable,Telecom & Internet - monthly,0.0,6425.0
+2026-01-28,JV0027,2000,Accounts Payable,Supplier payments,55256.0,0.0
+2026-01-28,JV0027,1000,Cash at Bank,Supplier payments,0.0,55256.0
+2026-01-28,JV0028,7000,Bank Charges,Bank charges,271.0,0.0
+2026-01-28,JV0028,1000,Cash at Bank,Bank charges,0.0,271.0
+2026-01-28,JV0029,7100,Depreciation,Monthly depreciation,4200.0,0.0
+2026-01-28,JV0029,1510,Accumulated Depreciation,Monthly depreciation,0.0,4200.0
+2026-02-01,JV0045,6100,Rent,Office rent,25000.0,0.0
+2026-02-01,JV0045,1000,Cash at Bank,Office rent,0.0,25000.0
+2026-02-03,JV0043,1000,Cash at Bank,Customer receipt,23826.0,0.0
+2026-02-03,JV0043,1100,Accounts Receivable,Customer receipt,0.0,23826.0
+2026-02-05,JV0049,6320,Meals & Entertainment,Meals & Entertainment - monthly,4839.0,0.0
+2026-02-05,JV0049,2000,Accounts Payable,Meals & Entertainment - monthly,0.0,4839.0
+2026-02-05,JV0052,6500,Software Subscriptions,Software Subscriptions - monthly,8848.0,0.0
+2026-02-05,JV0052,2000,Accounts Payable,Software Subscriptions - monthly,0.0,8848.0
+2026-02-06,JV0047,5000,Cost of Goods Sold,Cost of goods purchased,40311.0,0.0
+2026-02-06,JV0047,2000,Accounts Payable,Cost of goods purchased,0.0,40311.0
+2026-02-06,JV0054,6800,Marketing & Advertising,Marketing & Advertising - monthly,7416.0,0.0
+2026-02-06,JV0054,2000,Accounts Payable,Marketing & Advertising - monthly,0.0,7416.0
+2026-02-08,JV0040,1000,Cash at Bank,Customer receipt,12103.0,0.0
+2026-02-08,JV0040,1100,Accounts Receivable,Customer receipt,0.0,12103.0
+2026-02-11,JV0046,6200,Utilities,DEWA utilities,3970.0,0.0
+2026-02-11,JV0046,2000,Accounts Payable,DEWA utilities,0.0,3970.0
+2026-02-12,JV0031,1100,Accounts Receivable,Sales invoice INV-201,18659.0,0.0
+2026-02-12,JV0031,4100,Service Revenue,Sales invoice INV-201,0.0,18659.0
+2026-02-13,JV0042,1000,Cash at Bank,Customer receipt,27546.0,0.0
+2026-02-13,JV0042,1100,Accounts Receivable,Customer receipt,0.0,27546.0
+2026-02-13,JV0055,6900,Training & Development,Training & Development - monthly,6752.0,0.0
+2026-02-13,JV0055,2000,Accounts Payable,Training & Development - monthly,0.0,6752.0
+2026-02-14,JV0051,6400,Office Supplies,Office Supplies - monthly,7043.0,0.0
+2026-02-14,JV0051,2000,Accounts Payable,Office Supplies - monthly,0.0,7043.0
+2026-02-15,JV0030,1100,Accounts Receivable,Sales invoice INV-200,26217.0,0.0
+2026-02-15,JV0030,4100,Service Revenue,Sales invoice INV-200,0.0,26217.0
+2026-02-15,JV0036,1100,Accounts Receivable,Sales invoice INV-206,18708.0,0.0
+2026-02-15,JV0036,4000,Product Revenue,Sales invoice INV-206,0.0,18708.0
+2026-02-16,JV0048,6300,Travel - Airfare,Travel - Airfare - monthly,6982.0,0.0
+2026-02-16,JV0048,2000,Accounts Payable,Travel - Airfare - monthly,0.0,6982.0
+2026-02-21,JV0034,1100,Accounts Receivable,Sales invoice INV-204,47920.0,0.0
+2026-02-21,JV0034,4000,Product Revenue,Sales invoice INV-204,0.0,47920.0
+2026-02-21,JV0037,1100,Accounts Receivable,Sales invoice INV-207,25691.0,0.0
+2026-02-21,JV0037,4100,Service Revenue,Sales invoice INV-207,0.0,25691.0
+2026-02-22,JV0032,1100,Accounts Receivable,Sales invoice INV-202,21730.0,0.0
+2026-02-22,JV0032,4100,Service Revenue,Sales invoice INV-202,0.0,21730.0
+2026-02-22,JV0033,1100,Accounts Receivable,Sales invoice INV-203,53994.0,0.0
+2026-02-22,JV0033,4100,Service Revenue,Sales invoice INV-203,0.0,53994.0
+2026-02-22,JV0038,1000,Cash at Bank,Customer receipt,31252.0,0.0
+2026-02-22,JV0038,1100,Accounts Receivable,Customer receipt,0.0,31252.0
+2026-02-24,JV0035,1100,Accounts Receivable,Sales invoice INV-205,43005.0,0.0
+2026-02-24,JV0035,4000,Product Revenue,Sales invoice INV-205,0.0,43005.0
+2026-02-24,JV0050,6330,Local Transport,Local Transport - monthly,4804.0,0.0
+2026-02-24,JV0050,2000,Accounts Payable,Local Transport - monthly,0.0,4804.0
+2026-02-25,JV0044,6000,Salaries & Wages,Monthly payroll,94292.0,0.0
+2026-02-25,JV0044,1000,Cash at Bank,Monthly payroll,0.0,94292.0
+2026-02-25,JV0053,6600,Telecom & Internet,Telecom & Internet - monthly,1271.0,0.0
+2026-02-25,JV0053,2000,Accounts Payable,Telecom & Internet - monthly,0.0,1271.0
+2026-02-26,JV0041,1000,Cash at Bank,Customer receipt,30673.0,0.0
+2026-02-26,JV0041,1100,Accounts Receivable,Customer receipt,0.0,30673.0
+2026-02-27,JV0039,1000,Cash at Bank,Customer receipt,13665.0,0.0
+2026-02-27,JV0039,1100,Accounts Receivable,Customer receipt,0.0,13665.0
+2026-02-28,JV0056,2000,Accounts Payable,Supplier payments,79052.0,0.0
+2026-02-28,JV0056,1000,Cash at Bank,Supplier payments,0.0,79052.0
+2026-02-28,JV0057,7000,Bank Charges,Bank charges,169.0,0.0
+2026-02-28,JV0057,1000,Cash at Bank,Bank charges,0.0,169.0
+2026-02-28,JV0058,7100,Depreciation,Monthly depreciation,4200.0,0.0
+2026-02-28,JV0058,1510,Accumulated Depreciation,Monthly depreciation,0.0,4200.0
+2026-03-01,JV0059,1100,Accounts Receivable,Sales invoice INV-300,44256.0,0.0
+2026-03-01,JV0059,4100,Service Revenue,Sales invoice INV-300,0.0,44256.0
+2026-03-01,JV0071,1000,Cash at Bank,Customer receipt,17331.0,0.0
+2026-03-01,JV0071,1100,Accounts Receivable,Customer receipt,0.0,17331.0
+2026-03-01,JV0080,6100,Rent,Office rent,25000.0,0.0
+2026-03-01,JV0080,1000,Cash at Bank,Office rent,0.0,25000.0
+2026-03-01,JV0090,6900,Training & Development,Training & Development - monthly,1663.0,0.0
+2026-03-01,JV0090,2000,Accounts Payable,Training & Development - monthly,0.0,1663.0
+2026-03-03,JV0075,1000,Cash at Bank,Customer receipt,15613.0,0.0
+2026-03-03,JV0075,1100,Accounts Receivable,Customer receipt,0.0,15613.0
+2026-03-04,JV0066,1100,Accounts Receivable,Sales invoice INV-307,41271.0,0.0
+2026-03-04,JV0066,4000,Product Revenue,Sales invoice INV-307,0.0,41271.0
+2026-03-06,JV0082,5000,Cost of Goods Sold,Cost of goods purchased,51618.0,0.0
+2026-03-06,JV0082,2000,Accounts Payable,Cost of goods purchased,0.0,51618.0
+2026-03-08,JV0073,1000,Cash at Bank,Customer receipt,13796.0,0.0
+2026-03-08,JV0073,1100,Accounts Receivable,Customer receipt,0.0,13796.0
+2026-03-08,JV0074,1000,Cash at Bank,Customer receipt,47182.0,0.0
+2026-03-08,JV0074,1100,Accounts Receivable,Customer receipt,0.0,47182.0
+2026-03-08,JV0088,6700,Professional Fees,Professional Fees - monthly,1549.0,0.0
+2026-03-08,JV0088,2000,Accounts Payable,Professional Fees - monthly,0.0,1549.0
+2026-03-10,JV0062,1100,Accounts Receivable,Sales invoice INV-303,15310.0,0.0
+2026-03-10,JV0062,4100,Service Revenue,Sales invoice INV-303,0.0,15310.0
+2026-03-11,JV0070,1100,Accounts Receivable,Sales invoice INV-311,47252.0,0.0
+2026-03-11,JV0070,4000,Product Revenue,Sales invoice INV-311,0.0,47252.0
+2026-03-11,JV0081,6200,Utilities,DEWA utilities,2762.0,0.0
+2026-03-11,JV0081,2000,Accounts Payable,DEWA utilities,0.0,2762.0
+2026-03-12,JV0068,1100,Accounts Receivable,Sales invoice INV-309,18016.0,0.0
+2026-03-12,JV0068,4000,Product Revenue,Sales invoice INV-309,0.0,18016.0
+2026-03-12,JV0072,1000,Cash at Bank,Customer receipt,30153.0,0.0
+2026-03-12,JV0072,1100,Accounts Receivable,Customer receipt,0.0,30153.0
+2026-03-13,JV0086,6500,Software Subscriptions,Software Subscriptions - monthly,6618.0,0.0
+2026-03-13,JV0086,2000,Accounts Payable,Software Subscriptions - monthly,0.0,6618.0
+2026-03-15,JV0063,1100,Accounts Receivable,Sales invoice INV-304,18365.0,0.0
+2026-03-15,JV0063,4100,Service Revenue,Sales invoice INV-304,0.0,18365.0
+2026-03-17,JV0067,1100,Accounts Receivable,Sales invoice INV-308,49874.0,0.0
+2026-03-17,JV0067,4100,Service Revenue,Sales invoice INV-308,0.0,49874.0
+2026-03-17,JV0087,6600,Telecom & Internet,Telecom & Internet - monthly,7897.0,0.0
+2026-03-17,JV0087,2000,Accounts Payable,Telecom & Internet - monthly,0.0,7897.0
+2026-03-18,JV0060,1100,Accounts Receivable,Sales invoice INV-301,52676.0,0.0
+2026-03-18,JV0060,4000,Product Revenue,Sales invoice INV-301,0.0,52676.0
+2026-03-18,JV0083,6300,Travel - Airfare,Travel - Airfare - monthly,3205.0,0.0
+2026-03-18,JV0083,2000,Accounts Payable,Travel - Airfare - monthly,0.0,3205.0
+2026-03-19,JV0089,6800,Marketing & Advertising,Marketing & Advertising - monthly,4270.0,0.0
+2026-03-19,JV0089,2000,Accounts Payable,Marketing & Advertising - monthly,0.0,4270.0
+2026-03-21,JV0061,1100,Accounts Receivable,Sales invoice INV-302,58370.0,0.0
+2026-03-21,JV0061,4100,Service Revenue,Sales invoice INV-302,0.0,58370.0
+2026-03-23,JV0085,6400,Office Supplies,Office Supplies - monthly,3795.0,0.0
+2026-03-23,JV0085,2000,Accounts Payable,Office Supplies - monthly,0.0,3795.0
+2026-03-24,JV0064,1100,Accounts Receivable,Sales invoice INV-305,55323.0,0.0
+2026-03-24,JV0064,4000,Product Revenue,Sales invoice INV-305,0.0,55323.0
+2026-03-24,JV0076,1000,Cash at Bank,Customer receipt,41849.0,0.0
+2026-03-24,JV0076,1100,Accounts Receivable,Customer receipt,0.0,41849.0
+2026-03-25,JV0065,1100,Accounts Receivable,Sales invoice INV-306,40806.0,0.0
+2026-03-25,JV0065,4100,Service Revenue,Sales invoice INV-306,0.0,40806.0
+2026-03-25,JV0069,1100,Accounts Receivable,Sales invoice INV-310,43348.0,0.0
+2026-03-25,JV0069,4000,Product Revenue,Sales invoice INV-310,0.0,43348.0
+2026-03-25,JV0078,1000,Cash at Bank,Customer receipt,44911.0,0.0
+2026-03-25,JV0078,1100,Accounts Receivable,Customer receipt,0.0,44911.0
+2026-03-25,JV0079,6000,Salaries & Wages,Monthly payroll,87060.0,0.0
+2026-03-25,JV0079,1000,Cash at Bank,Monthly payroll,0.0,87060.0
+2026-03-27,JV0077,1000,Cash at Bank,Customer receipt,14535.0,0.0
+2026-03-27,JV0077,1100,Accounts Receivable,Customer receipt,0.0,14535.0
+2026-03-28,JV0084,6310,Travel - Hotels,Travel - Hotels - monthly,7432.0,0.0
+2026-03-28,JV0084,2000,Accounts Payable,Travel - Hotels - monthly,0.0,7432.0
+2026-03-28,JV0091,2000,Accounts Payable,Supplier payments,43858.0,0.0
+2026-03-28,JV0091,1000,Cash at Bank,Supplier payments,0.0,43858.0
+2026-03-28,JV0092,7000,Bank Charges,Bank charges,108.0,0.0
+2026-03-28,JV0092,1000,Cash at Bank,Bank charges,0.0,108.0
+2026-03-28,JV0093,7100,Depreciation,Monthly depreciation,4200.0,0.0
+2026-03-28,JV0093,1510,Accumulated Depreciation,Monthly depreciation,0.0,4200.0
+2026-04-01,JV0111,6100,Rent,Office rent,25000.0,0.0
+2026-04-01,JV0111,1000,Cash at Bank,Office rent,0.0,25000.0
+2026-04-01,JV0119,6800,Marketing & Advertising,Marketing & Advertising - monthly,6896.0,0.0
+2026-04-01,JV0119,2000,Accounts Payable,Marketing & Advertising - monthly,0.0,6896.0
+2026-04-02,JV0104,1000,Cash at Bank,Customer receipt,36386.0,0.0
+2026-04-02,JV0104,1100,Accounts Receivable,Customer receipt,0.0,36386.0
+2026-04-03,JV0094,1100,Accounts Receivable,Sales invoice INV-400,29654.0,0.0
+2026-04-03,JV0094,4000,Product Revenue,Sales invoice INV-400,0.0,29654.0
+2026-04-06,JV0113,5000,Cost of Goods Sold,Cost of goods purchased,39127.0,0.0
+2026-04-06,JV0113,2000,Accounts Payable,Cost of goods purchased,0.0,39127.0
+2026-04-07,JV0099,1100,Accounts Receivable,Sales invoice INV-405,34677.0,0.0
+2026-04-07,JV0099,4100,Service Revenue,Sales invoice INV-405,0.0,34677.0
+2026-04-07,JV0108,1000,Cash at Bank,Customer receipt,45146.0,0.0
+2026-04-07,JV0108,1100,Accounts Receivable,Customer receipt,0.0,45146.0
+2026-04-08,JV0107,1000,Cash at Bank,Customer receipt,22556.0,0.0
+2026-04-08,JV0107,1100,Accounts Receivable,Customer receipt,0.0,22556.0
+2026-04-11,JV0112,6200,Utilities,DEWA utilities,2875.0,0.0
+2026-04-11,JV0112,2000,Accounts Payable,DEWA utilities,0.0,2875.0
+2026-04-13,JV0118,6700,Professional Fees,Professional Fees - monthly,1460.0,0.0
+2026-04-13,JV0118,2000,Accounts Payable,Professional Fees - monthly,0.0,1460.0
+2026-04-14,JV0101,1100,Accounts Receivable,Sales invoice INV-407,31219.0,0.0
+2026-04-14,JV0101,4100,Service Revenue,Sales invoice INV-407,0.0,31219.0
+2026-04-15,JV0102,1000,Cash at Bank,Customer receipt,13550.0,0.0
+2026-04-15,JV0102,1100,Accounts Receivable,Customer receipt,0.0,13550.0
+2026-04-15,JV0109,1000,Cash at Bank,Customer receipt,19186.0,0.0
+2026-04-15,JV0109,1100,Accounts Receivable,Customer receipt,0.0,19186.0
+2026-04-16,JV0117,6600,Telecom & Internet,Telecom & Internet - monthly,8386.0,0.0
+2026-04-16,JV0117,2000,Accounts Payable,Telecom & Internet - monthly,0.0,8386.0
+2026-04-18,JV0096,1100,Accounts Receivable,Sales invoice INV-402,22040.0,0.0
+2026-04-18,JV0096,4100,Service Revenue,Sales invoice INV-402,0.0,22040.0
+2026-04-18,JV0116,6320,Meals & Entertainment,Meals & Entertainment - monthly,741.0,0.0
+2026-04-18,JV0116,2000,Accounts Payable,Meals & Entertainment - monthly,0.0,741.0
+2026-04-19,JV0097,1100,Accounts Receivable,Sales invoice INV-403,55405.0,0.0
+2026-04-19,JV0097,4000,Product Revenue,Sales invoice INV-403,0.0,55405.0
+2026-04-22,JV0095,1100,Accounts Receivable,Sales invoice INV-401,26250.0,0.0
+2026-04-22,JV0095,4000,Product Revenue,Sales invoice INV-401,0.0,26250.0
+2026-04-22,JV0100,1100,Accounts Receivable,Sales invoice INV-406,14352.0,0.0
+2026-04-22,JV0100,4000,Product Revenue,Sales invoice INV-406,0.0,14352.0
+2026-04-22,JV0103,1000,Cash at Bank,Customer receipt,16449.0,0.0
+2026-04-22,JV0103,1100,Accounts Receivable,Customer receipt,0.0,16449.0
+2026-04-24,JV0105,1000,Cash at Bank,Customer receipt,32236.0,0.0
+2026-04-24,JV0105,1100,Accounts Receivable,Customer receipt,0.0,32236.0
+2026-04-25,JV0110,6000,Salaries & Wages,Monthly payroll,91912.0,0.0
+2026-04-25,JV0110,1000,Cash at Bank,Monthly payroll,0.0,91912.0
+2026-04-26,JV0098,1100,Accounts Receivable,Sales invoice INV-404,23925.0,0.0
+2026-04-26,JV0098,4100,Service Revenue,Sales invoice INV-404,0.0,23925.0
+2026-04-26,JV0106,1000,Cash at Bank,Customer receipt,17161.0,0.0
+2026-04-26,JV0106,1100,Accounts Receivable,Customer receipt,0.0,17161.0
+2026-04-26,JV0120,6900,Training & Development,Training & Development - monthly,7954.0,0.0
+2026-04-26,JV0120,2000,Accounts Payable,Training & Development - monthly,0.0,7954.0
+2026-04-28,JV0114,6300,Travel - Airfare,Travel - Airfare - monthly,1735.0,0.0
+2026-04-28,JV0114,2000,Accounts Payable,Travel - Airfare - monthly,0.0,1735.0
+2026-04-28,JV0115,6310,Travel - Hotels,Travel - Hotels - monthly,2104.0,0.0
+2026-04-28,JV0115,2000,Accounts Payable,Travel - Hotels - monthly,0.0,2104.0
+2026-04-28,JV0121,2000,Accounts Payable,Supplier payments,58694.0,0.0
+2026-04-28,JV0121,1000,Cash at Bank,Supplier payments,0.0,58694.0
+2026-04-28,JV0122,7000,Bank Charges,Bank charges,158.0,0.0
+2026-04-28,JV0122,1000,Cash at Bank,Bank charges,0.0,158.0
+2026-04-28,JV0123,7100,Depreciation,Monthly depreciation,4200.0,0.0
+2026-04-28,JV0123,1510,Accumulated Depreciation,Monthly depreciation,0.0,4200.0
+2026-05-01,JV0144,6100,Rent,Office rent,25000.0,0.0
+2026-05-01,JV0144,1000,Cash at Bank,Office rent,0.0,25000.0
+2026-05-02,JV0125,1100,Accounts Receivable,Sales invoice INV-501,22267.0,0.0
+2026-05-02,JV0125,4100,Service Revenue,Sales invoice INV-501,0.0,22267.0
+2026-05-03,JV0130,1100,Accounts Receivable,Sales invoice INV-506,20178.0,0.0
+2026-05-03,JV0130,4000,Product Revenue,Sales invoice INV-506,0.0,20178.0
+2026-05-03,JV0134,1100,Accounts Receivable,Sales invoice INV-510,48591.0,0.0
+2026-05-03,JV0134,4000,Product Revenue,Sales invoice INV-510,0.0,48591.0
+2026-05-06,JV0146,5000,Cost of Goods Sold,Cost of goods purchased,50354.0,0.0
+2026-05-06,JV0146,2000,Accounts Payable,Cost of goods purchased,0.0,50354.0
+2026-05-06,JV0149,6500,Software Subscriptions,Software Subscriptions - monthly,7679.0,0.0
+2026-05-06,JV0149,2000,Accounts Payable,Software Subscriptions - monthly,0.0,7679.0
+2026-05-07,JV0124,1100,Accounts Receivable,Sales invoice INV-500,18144.0,0.0
+2026-05-07,JV0124,4100,Service Revenue,Sales invoice INV-500,0.0,18144.0
+2026-05-07,JV0147,6320,Meals & Entertainment,Meals & Entertainment - monthly,8788.0,0.0
+2026-05-07,JV0147,2000,Accounts Payable,Meals & Entertainment - monthly,0.0,8788.0
+2026-05-08,JV0131,1100,Accounts Receivable,Sales invoice INV-507,52250.0,0.0
+2026-05-08,JV0131,4000,Product Revenue,Sales invoice INV-507,0.0,52250.0
+2026-05-08,JV0138,1000,Cash at Bank,Customer receipt,27407.0,0.0
+2026-05-08,JV0138,1100,Accounts Receivable,Customer receipt,0.0,27407.0
+2026-05-09,JV0136,1000,Cash at Bank,Customer receipt,23386.0,0.0
+2026-05-09,JV0136,1100,Accounts Receivable,Customer receipt,0.0,23386.0
+2026-05-11,JV0126,1100,Accounts Receivable,Sales invoice INV-502,57019.0,0.0
+2026-05-11,JV0126,4000,Product Revenue,Sales invoice INV-502,0.0,57019.0
+2026-05-11,JV0145,6200,Utilities,DEWA utilities,3438.0,0.0
+2026-05-11,JV0145,2000,Accounts Payable,DEWA utilities,0.0,3438.0
+2026-05-12,JV0148,6330,Local Transport,Local Transport - monthly,1627.0,0.0
+2026-05-12,JV0148,2000,Accounts Payable,Local Transport - monthly,0.0,1627.0
+2026-05-13,JV0139,1000,Cash at Bank,Customer receipt,18577.0,0.0
+2026-05-13,JV0139,1100,Accounts Receivable,Customer receipt,0.0,18577.0
+2026-05-15,JV0141,1000,Cash at Bank,Customer receipt,30720.0,0.0
+2026-05-15,JV0141,1100,Accounts Receivable,Customer receipt,0.0,30720.0
+2026-05-17,JV0128,1100,Accounts Receivable,Sales invoice INV-504,40954.0,0.0
+2026-05-17,JV0128,4100,Service Revenue,Sales invoice INV-504,0.0,40954.0
+2026-05-17,JV0129,1100,Accounts Receivable,Sales invoice INV-505,11727.0,0.0
+2026-05-17,JV0129,4000,Product Revenue,Sales invoice INV-505,0.0,11727.0
+2026-05-18,JV0151,6800,Marketing & Advertising,Marketing & Advertising - monthly,5405.0,0.0
+2026-05-18,JV0151,2000,Accounts Payable,Marketing & Advertising - monthly,0.0,5405.0
+2026-05-19,JV0127,1100,Accounts Receivable,Sales invoice INV-503,11286.0,0.0
+2026-05-19,JV0127,4000,Product Revenue,Sales invoice INV-503,0.0,11286.0
+2026-05-19,JV0132,1100,Accounts Receivable,Sales invoice INV-508,15856.0,0.0
+2026-05-19,JV0132,4100,Service Revenue,Sales invoice INV-508,0.0,15856.0
+2026-05-19,JV0135,1100,Accounts Receivable,Sales invoice INV-511,51081.0,0.0
+2026-05-19,JV0135,4100,Service Revenue,Sales invoice INV-511,0.0,51081.0
+2026-05-20,JV0133,1100,Accounts Receivable,Sales invoice INV-509,45940.0,0.0
+2026-05-20,JV0133,4000,Product Revenue,Sales invoice INV-509,0.0,45940.0
+2026-05-20,JV0150,6700,Professional Fees,Professional Fees - monthly,628.0,0.0
+2026-05-20,JV0150,2000,Accounts Payable,Professional Fees - monthly,0.0,628.0
+2026-05-22,JV0137,1000,Cash at Bank,Customer receipt,30590.0,0.0
+2026-05-22,JV0137,1100,Accounts Receivable,Customer receipt,0.0,30590.0
+2026-05-22,JV0140,1000,Cash at Bank,Customer receipt,29660.0,0.0
+2026-05-22,JV0140,1100,Accounts Receivable,Customer receipt,0.0,29660.0
+2026-05-25,JV0142,1000,Cash at Bank,Customer receipt,14754.0,0.0
+2026-05-25,JV0142,1100,Accounts Receivable,Customer receipt,0.0,14754.0
+2026-05-25,JV0143,6000,Salaries & Wages,Monthly payroll,85152.0,0.0
+2026-05-25,JV0143,1000,Cash at Bank,Monthly payroll,0.0,85152.0
+2026-05-28,JV0152,2000,Accounts Payable,Supplier payments,46788.0,0.0
+2026-05-28,JV0152,1000,Cash at Bank,Supplier payments,0.0,46788.0
+2026-05-28,JV0153,7000,Bank Charges,Bank charges,290.0,0.0
+2026-05-28,JV0153,1000,Cash at Bank,Bank charges,0.0,290.0
+2026-05-28,JV0154,7100,Depreciation,Monthly depreciation,4200.0,0.0
+2026-05-28,JV0154,1510,Accumulated Depreciation,Monthly depreciation,0.0,4200.0
+2026-06-01,JV0171,6100,Rent,Office rent,25000.0,0.0
+2026-06-01,JV0171,1000,Cash at Bank,Office rent,0.0,25000.0
+2026-06-02,JV0161,1100,Accounts Receivable,Sales invoice INV-606,26132.0,0.0
+2026-06-02,JV0161,4100,Service Revenue,Sales invoice INV-606,0.0,26132.0
+2026-06-03,JV0160,1100,Accounts Receivable,Sales invoice INV-605,11329.0,0.0
+2026-06-03,JV0160,4100,Service Revenue,Sales invoice INV-605,0.0,11329.0
+2026-06-04,JV0155,1100,Accounts Receivable,Sales invoice INV-600,15564.0,0.0
+2026-06-04,JV0155,4100,Service Revenue,Sales invoice INV-600,0.0,15564.0
+2026-06-04,JV0167,1000,Cash at Bank,Customer receipt,14931.0,0.0
+2026-06-04,JV0167,1100,Accounts Receivable,Customer receipt,0.0,14931.0
+2026-06-05,JV0174,6300,Travel - Airfare,Travel - Airfare - monthly,1185.0,0.0
+2026-06-05,JV0174,2000,Accounts Payable,Travel - Airfare - monthly,0.0,1185.0
+2026-06-06,JV0173,5000,Cost of Goods Sold,Cost of goods purchased,48105.0,0.0
+2026-06-06,JV0173,2000,Accounts Payable,Cost of goods purchased,0.0,48105.0
+2026-06-08,JV0176,6330,Local Transport,Local Transport - monthly,2184.0,0.0
+2026-06-08,JV0176,2000,Accounts Payable,Local Transport - monthly,0.0,2184.0
+2026-06-08,JV0178,6600,Telecom & Internet,Telecom & Internet - monthly,3162.0,0.0
+2026-06-08,JV0178,2000,Accounts Payable,Telecom & Internet - monthly,0.0,3162.0
+2026-06-09,JV0163,1100,Accounts Receivable,Sales invoice INV-608,49753.0,0.0
+2026-06-09,JV0163,4000,Product Revenue,Sales invoice INV-608,0.0,49753.0
+2026-06-10,JV0156,1100,Accounts Receivable,Sales invoice INV-601,25848.0,0.0
+2026-06-10,JV0156,4000,Product Revenue,Sales invoice INV-601,0.0,25848.0
+2026-06-11,JV0157,1100,Accounts Receivable,Sales invoice INV-602,55029.0,0.0
+2026-06-11,JV0157,4000,Product Revenue,Sales invoice INV-602,0.0,55029.0
+2026-06-11,JV0172,6200,Utilities,DEWA utilities,3692.0,0.0
+2026-06-11,JV0172,2000,Accounts Payable,DEWA utilities,0.0,3692.0
+2026-06-16,JV0159,1100,Accounts Receivable,Sales invoice INV-604,41122.0,0.0
+2026-06-16,JV0159,4100,Service Revenue,Sales invoice INV-604,0.0,41122.0
+2026-06-18,JV0165,1000,Cash at Bank,Customer receipt,38028.0,0.0
+2026-06-18,JV0165,1100,Accounts Receivable,Customer receipt,0.0,38028.0
+2026-06-18,JV0166,1000,Cash at Bank,Customer receipt,10633.0,0.0
+2026-06-18,JV0166,1100,Accounts Receivable,Customer receipt,0.0,10633.0
+2026-06-18,JV0169,1000,Cash at Bank,Customer receipt,12361.0,0.0
+2026-06-18,JV0169,1100,Accounts Receivable,Customer receipt,0.0,12361.0
+2026-06-18,JV0177,6400,Office Supplies,Office Supplies - monthly,7158.0,0.0
+2026-06-18,JV0177,2000,Accounts Payable,Office Supplies - monthly,0.0,7158.0
+2026-06-21,JV0158,1100,Accounts Receivable,Sales invoice INV-603,53055.0,0.0
+2026-06-21,JV0158,4000,Product Revenue,Sales invoice INV-603,0.0,53055.0
+2026-06-23,JV0168,1000,Cash at Bank,Customer receipt,19768.0,0.0
+2026-06-23,JV0168,1100,Accounts Receivable,Customer receipt,0.0,19768.0
+2026-06-24,JV0164,1000,Cash at Bank,Customer receipt,38956.0,0.0
+2026-06-24,JV0164,1100,Accounts Receivable,Customer receipt,0.0,38956.0
+2026-06-25,JV0162,1100,Accounts Receivable,Sales invoice INV-607,29859.0,0.0
+2026-06-25,JV0162,4000,Product Revenue,Sales invoice INV-607,0.0,29859.0
+2026-06-25,JV0170,6000,Salaries & Wages,Monthly payroll,91049.0,0.0
+2026-06-25,JV0170,1000,Cash at Bank,Monthly payroll,0.0,91049.0
+2026-06-26,JV0175,6310,Travel - Hotels,Travel - Hotels - monthly,1153.0,0.0
+2026-06-26,JV0175,2000,Accounts Payable,Travel - Hotels - monthly,0.0,1153.0
+2026-06-28,JV0179,2000,Accounts Payable,Supplier payments,41624.0,0.0
+2026-06-28,JV0179,1000,Cash at Bank,Supplier payments,0.0,41624.0
+2026-06-28,JV0180,7000,Bank Charges,Bank charges,95.0,0.0
+2026-06-28,JV0180,1000,Cash at Bank,Bank charges,0.0,95.0
+2026-06-28,JV0181,7100,Depreciation,Monthly depreciation,4200.0,0.0
+2026-06-28,JV0181,1510,Accumulated Depreciation,Monthly depreciation,0.0,4200.0

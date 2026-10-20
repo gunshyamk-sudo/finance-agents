@@ -1,0 +1,202 @@
+expense_id,correct_account_code,correct_account_name,expected_policy_flag
+EXP0001,6500,Software Subscriptions,OK
+EXP0002,6300,Travel - Airfare,OK
+EXP0003,6320,Meals & Entertainment,Over limit
+EXP0004,6320,Meals & Entertainment,OK
+EXP0005,6310,Travel - Hotels,Over limit
+EXP0006,6330,Local Transport,OK
+EXP0007,6330,Local Transport,OK
+EXP0008,6320,Meals & Entertainment,OK
+EXP0009,6400,Office Supplies,OK
+EXP0010,6500,Software Subscriptions,OK
+EXP0011,6330,Local Transport,OK
+EXP0012,6500,Software Subscriptions,OK
+EXP0013,6300,Travel - Airfare,OK
+EXP0014,6320,Meals & Entertainment,OK
+EXP0015,6400,Office Supplies,OK
+EXP0016,6500,Software Subscriptions,OK
+EXP0017,6330,Local Transport,OK
+EXP0018,6400,Office Supplies,OK
+EXP0019,6500,Software Subscriptions,OK
+EXP0020,6500,Software Subscriptions,OK
+EXP0021,6320,Meals & Entertainment,OK
+EXP0022,6500,Software Subscriptions,Over limit
+EXP0023,6310,Travel - Hotels,Over limit
+EXP0024,6800,Marketing & Advertising,OK
+EXP0025,6800,Marketing & Advertising,OK
+EXP0026,6320,Meals & Entertainment,OK
+EXP0027,6300,Travel - Airfare,OK
+EXP0028,6310,Travel - Hotels,Over limit
+EXP0029,6320,Meals & Entertainment,Missing receipt
+EXP0030,6300,Travel - Airfare,Missing receipt
+EXP0031,6900,Training & Development,OK
+EXP0032,6310,Travel - Hotels,Over limit
+EXP0033,6900,Training & Development,OK
+EXP0034,6330,Local Transport,OK
+EXP0035,6400,Office Supplies,OK
+EXP0036,6600,Telecom & Internet,OK
+EXP0037,6400,Office Supplies,OK
+EXP0038,6400,Office Supplies,OK
+EXP0039,6400,Office Supplies,OK
+EXP0040,6600,Telecom & Internet,OK
+EXP0041,6400,Office Supplies,OK
+EXP0042,6320,Meals & Entertainment,OK
+EXP0043,6330,Local Transport,OK
+EXP0044,6400,Office Supplies,OK
+EXP0045,6320,Meals & Entertainment,Over limit
+EXP0046,6320,Meals & Entertainment,OK
+EXP0047,6310,Travel - Hotels,OK
+EXP0048,6310,Travel - Hotels,Over limit
+EXP0049,6400,Office Supplies,OK
+EXP0050,6500,Software Subscriptions,OK
+EXP0051,6900,Training & Development,OK
+EXP0052,6330,Local Transport,Over limit
+EXP0053,6310,Travel - Hotels,Over limit
+EXP0054,6310,Travel - Hotels,OK
+EXP0055,6400,Office Supplies,OK
+EXP0056,6320,Meals & Entertainment,OK
+EXP0057,6300,Travel - Airfare,OK
+EXP0058,6330,Local Transport,OK
+EXP0059,6300,Travel - Airfare,Missing receipt
+EXP0060,6900,Training & Development,OK
+EXP0061,6800,Marketing & Advertising,OK
+EXP0062,6900,Training & Development,OK
+EXP0063,6330,Local Transport,OK
+EXP0064,6320,Meals & Entertainment,OK
+EXP0065,6330,Local Transport,OK
+EXP0066,6330,Local Transport,Over limit
+EXP0067,6900,Training & Development,OK
+EXP0068,6320,Meals & Entertainment,OK
+EXP0069,6300,Travel - Airfare,OK
+EXP0070,6800,Marketing & Advertising,OK
+EXP0071,6500,Software Subscriptions,OK
+EXP0072,6330,Local Transport,OK
+EXP0073,6500,Software Subscriptions,OK
+EXP0074,6330,Local Transport,OK
+EXP0075,6320,Meals & Entertainment,OK
+EXP0076,6900,Training & Development,OK
+EXP0077,6320,Meals & Entertainment,OK
+EXP0078,6700,Professional Fees,OK
+EXP0079,6500,Software Subscriptions,OK
+EXP0080,6330,Local Transport,OK
+EXP0081,6320,Meals & Entertainment,Over limit
+EXP0082,6320,Meals & Entertainment,Missing receipt
+EXP0083,6330,Local Transport,OK
+EXP0084,6320,Meals & Entertainment,OK
+EXP0085,6400,Office Supplies,OK
+EXP0086,6700,Professional Fees,OK
+EXP0087,6330,Local Transport,OK
+EXP0088,6330,Local Transport,OK
+EXP0089,6400,Office Supplies,OK
+EXP0090,6400,Office Supplies,OK
+EXP0091,6330,Local Transport,OK
+EXP0092,6400,Office Supplies,OK
+EXP0093,6320,Meals & Entertainment,Over limit
+EXP0094,6320,Meals & Entertainment,OK
+EXP0095,6500,Software Subscriptions,OK
+EXP0096,6500,Software Subscriptions,Missing receipt
+EXP0097,6300,Travel - Airfare,OK
+EXP0098,6310,Travel - Hotels,Over limit
+EXP0099,6800,Marketing & Advertising,OK
+EXP0100,6900,Training & Development,OK
+EXP0101,6320,Meals & Entertainment,OK
+EXP0102,6500,Software Subscriptions,OK
+EXP0103,6330,Local Transport,OK
+EXP0104,6320,Meals & Entertainment,OK
+EXP0105,6310,Travel - Hotels,Over limit
+EXP0106,6400,Office Supplies,OK
+EXP0107,6300,Travel - Airfare,Missing receipt
+EXP0108,6320,Meals & Entertainment,OK
+EXP0109,6330,Local Transport,OK
+EXP0110,6300,Travel - Airfare,OK
+EXP0111,6500,Software Subscriptions,OK
+EXP0112,6600,Telecom & Internet,Missing receipt
+EXP0113,6700,Professional Fees,OK
+EXP0114,6500,Software Subscriptions,Missing receipt
+EXP0115,6330,Local Transport,OK
+EXP0116,6330,Local Transport,OK
+EXP0117,6400,Office Supplies,Over limit
+EXP0118,6330,Local Transport,OK
+EXP0119,6310,Travel - Hotels,OK
+EXP0120,6330,Local Transport,OK
+EXP0121,6800,Marketing & Advertising,OK
+EXP0122,6320,Meals & Entertainment,OK
+EXP0123,6400,Office Supplies,OK
+EXP0124,6500,Software Subscriptions,OK
+EXP0125,6320,Meals & Entertainment,OK
+EXP0126,6800,Marketing & Advertising,OK
+EXP0127,6330,Local Transport,OK
+EXP0128,6600,Telecom & Internet,OK
+EXP0129,6600,Telecom & Internet,OK
+EXP0130,6900,Training & Development,OK
+EXP0131,6300,Travel - Airfare,OK
+EXP0132,6330,Local Transport,OK
+EXP0133,6400,Office Supplies,Missing receipt
+EXP0134,6320,Meals & Entertainment,OK
+EXP0135,6310,Travel - Hotels,Over limit
+EXP0136,6400,Office Supplies,Missing receipt
+EXP0137,6320,Meals & Entertainment,Over limit
+EXP0138,6330,Local Transport,OK
+EXP0139,6330,Local Transport,OK
+EXP0140,6900,Training & Development,OK
+EXP0141,6310,Travel - Hotels,OK
+EXP0142,6900,Training & Development,OK
+EXP0143,6330,Local Transport,OK
+EXP0144,6300,Travel - Airfare,OK
+EXP0145,6320,Meals & Entertainment,Over limit
+EXP0146,6310,Travel - Hotels,OK
+EXP0147,6500,Software Subscriptions,OK
+EXP0148,6300,Travel - Airfare,Missing receipt
+EXP0149,6300,Travel - Airfare,OK
+EXP0150,6400,Office Supplies,OK
+EXP0151,6800,Marketing & Advertising,OK
+EXP0152,6330,Local Transport,Missing receipt
+EXP0153,6330,Local Transport,OK
+EXP0154,6400,Office Supplies,OK
+EXP0155,6320,Meals & Entertainment,Over limit
+EXP0156,6320,Meals & Entertainment,OK
+EXP0157,6400,Office Supplies,OK
+EXP0158,6400,Office Supplies,OK
+EXP0159,6320,Meals & Entertainment,OK
+EXP0160,6600,Telecom & Internet,OK
+EXP0161,6310,Travel - Hotels,Over limit
+EXP0162,6500,Software Subscriptions,OK
+EXP0163,6320,Meals & Entertainment,OK
+EXP0164,6500,Software Subscriptions,OK
+EXP0165,6800,Marketing & Advertising,Over limit
+EXP0166,6600,Telecom & Internet,OK
+EXP0167,6310,Travel - Hotels,Over limit
+EXP0168,6900,Training & Development,OK
+EXP0169,6320,Meals & Entertainment,OK
+EXP0170,6310,Travel - Hotels,Over limit
+EXP0171,6330,Local Transport,OK
+EXP0172,6900,Training & Development,OK
+EXP0173,6300,Travel - Airfare,OK
+EXP0174,6400,Office Supplies,OK
+EXP0175,6320,Meals & Entertainment,OK
+EXP0176,6300,Travel - Airfare,Missing receipt
+EXP0177,6700,Professional Fees,OK
+EXP0178,6400,Office Supplies,OK
+EXP0179,6310,Travel - Hotels,OK
+EXP0180,6300,Travel - Airfare,OK
+EXP0181,6320,Meals & Entertainment,Over limit
+EXP0182,6500,Software Subscriptions,OK
+EXP0183,6320,Meals & Entertainment,Over limit
+EXP0184,6320,Meals & Entertainment,Over limit
+EXP0185,6320,Meals & Entertainment,OK
+EXP0186,6330,Local Transport,OK
+EXP0187,6400,Office Supplies,OK
+EXP0188,6800,Marketing & Advertising,Missing receipt
+EXP0189,6330,Local Transport,OK
+EXP0190,6300,Travel - Airfare,Over limit
+EXP0191,6300,Travel - Airfare,Over limit
+EXP0192,6330,Local Transport,OK
+EXP0193,6300,Travel - Airfare,Over limit
+EXP0194,6500,Software Subscriptions,OK
+EXP0195,6800,Marketing & Advertising,OK
+EXP0196,6900,Training & Development,Over limit
+EXP0197,6800,Marketing & Advertising,OK
+EXP0198,6500,Software Subscriptions,OK
+EXP0199,6600,Telecom & Internet,OK
+EXP0200,6330,Local Transport,OK
+EXP0201,6330,Local Transport,Duplicate of EXP0011

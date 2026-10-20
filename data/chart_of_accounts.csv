@@ -1,0 +1,30 @@
+account_code,account_name,account_type
+1000,Cash at Bank,Asset
+1100,Accounts Receivable,Asset
+1200,Prepaid Expenses,Asset
+1300,VAT Recoverable,Asset
+1500,Fixed Assets,Asset
+1510,Accumulated Depreciation,Asset
+2000,Accounts Payable,Liability
+2100,Accrued Expenses,Liability
+2200,VAT Payable,Liability
+3000,Share Capital,Equity
+3100,Retained Earnings,Equity
+4000,Product Revenue,Revenue
+4100,Service Revenue,Revenue
+5000,Cost of Goods Sold,Expense
+6000,Salaries & Wages,Expense
+6100,Rent,Expense
+6200,Utilities,Expense
+6300,Travel - Airfare,Expense
+6310,Travel - Hotels,Expense
+6320,Meals & Entertainment,Expense
+6330,Local Transport,Expense
+6400,Office Supplies,Expense
+6500,Software Subscriptions,Expense
+6600,Telecom & Internet,Expense
+6700,Professional Fees,Expense
+6800,Marketing & Advertising,Expense
+6900,Training & Development,Expense
+7000,Bank Charges,Expense
+7100,Depreciation,Expense

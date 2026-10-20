@@ -1,0 +1,30 @@
+account_code,account_name,account_type,aug_2026_aed,sep_2026_aed
+1000,Cash at Bank,Asset,348200,338598.42
+1100,Accounts Receivable,Asset,44580,42020.01
+1200,Prepaid Expenses,Asset,200572,214536.31
+1300,VAT Recoverable,Asset,294969,287073.91
+1500,Fixed Assets,Asset,187108,183935.92
+1510,Accumulated Depreciation,Asset,177227,168661.19
+2000,Accounts Payable,Liability,217373,222823.83
+2100,Accrued Expenses,Liability,146336,154654.49
+2200,VAT Payable,Liability,138145,134750.21
+3000,Share Capital,Equity,262758,282322.23
+3100,Retained Earnings,Equity,50211,44129.45
+4000,Product Revenue,Revenue,223044,211876.67
+4100,Service Revenue,Revenue,219467,179962.94
+5000,Cost of Goods Sold,Expense,16325,16779.41
+6000,Salaries & Wages,Expense,90000,89117.44
+6100,Rent,Expense,32477,33054.05
+6200,Utilities,Expense,58517,65539.04
+6300,Travel - Airfare,Expense,57355,59927.81
+6310,Travel - Hotels,Expense,15483,16197.19
+6320,Meals & Entertainment,Expense,42647,43307.24
+6330,Local Transport,Expense,42513,43314.0
+6400,Office Supplies,Expense,55733,55999.43
+6500,Software Subscriptions,Expense,52918,49553.08
+6600,Telecom & Internet,Expense,17222,16550.13
+6700,Professional Fees,Expense,34417,55067.2
+6800,Marketing & Advertising,Expense,22869,31559.22
+6900,Training & Development,Expense,4004,4034.89
+7000,Bank Charges,Expense,51593,53219.8
+7100,Depreciation,Expense,10688,10670.44

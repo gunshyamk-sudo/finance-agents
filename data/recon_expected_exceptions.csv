@@ -1,0 +1,7 @@
+reference,exception_type,explanation,suggested_journal
+BCHG0926,"In bank, not in GL",Bank charges AED 185 not recorded,Dr 7000 Bank Charges 185 / Cr 1000 Cash 185
+INT0926,"In bank, not in GL",Interest credit AED 312.40 not recorded,Dr 1000 Cash 312.40 / Cr 4100 or Interest Income 312.40
+RCPT2699,"In GL, not in bank","Deposit in transit AED 18,500 (timing)",No entry - should clear next month
+CHQ004512,"In GL, not in bank","Outstanding cheque AED 7,800 (timing)",No entry - should clear next month
+PAY3777,Amount mismatch,"GL 1,250 vs bank 1,520 - likely transposition error",Dr 2000 AP 270 / Cr 1000 Cash 270 after checking invoice
+PAY3888,Duplicate in GL,"Payment posted twice in GL (AED 4,400)","Reverse duplicate: Dr 1000 Cash 4,400 / Cr 2000 AP 4,400"

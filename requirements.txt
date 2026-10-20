@@ -1,0 +1,10 @@
+pandas
+openpyxl
+anthropic
+python-dotenv
+pydantic
+requests
+mcp[cli]
+langgraph
+streamlit
+rapidfuzz

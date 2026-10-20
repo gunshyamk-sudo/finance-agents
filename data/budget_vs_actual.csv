@@ -1,0 +1,181 @@
+month,cost_centre,account_code,account_name,budget_aed,actual_aed
+2026-01,Finance,6000,Salaries & Wages,72100.0,68994.26
+2026-01,Finance,6400,Office Supplies,6100.0,6327.79
+2026-01,Finance,6500,Software Subscriptions,10900.0,11135.52
+2026-01,Finance,6700,Professional Fees,4600.0,4083.59
+2026-01,Sales,6000,Salaries & Wages,88300.0,82991.26
+2026-01,Sales,6300,Travel - Airfare,3500.0,3752.86
+2026-01,Sales,6310,Travel - Hotels,4100.0,4212.61
+2026-01,Sales,6320,Meals & Entertainment,5900.0,6132.17
+2026-01,Marketing,6000,Salaries & Wages,75500.0,72443.33
+2026-01,Marketing,6800,Marketing & Advertising,11100.0,12839.2
+2026-01,Marketing,6320,Meals & Entertainment,10600.0,10595.42
+2026-01,Operations,6000,Salaries & Wages,67500.0,70375.21
+2026-01,Operations,6200,Utilities,4100.0,3968.02
+2026-01,Operations,6330,Local Transport,7500.0,8200.48
+2026-01,Operations,6400,Office Supplies,4500.0,4694.48
+2026-01,HR,6000,Salaries & Wages,72900.0,72445.98
+2026-01,HR,6900,Training & Development,9500.0,8346.13
+2026-01,IT,6000,Salaries & Wages,68200.0,65786.12
+2026-01,IT,6500,Software Subscriptions,10400.0,10649.78
+2026-01,IT,6600,Telecom & Internet,8800.0,8838.08
+2026-02,Finance,6000,Salaries & Wages,68800.0,66749.65
+2026-02,Finance,6400,Office Supplies,6700.0,5956.09
+2026-02,Finance,6500,Software Subscriptions,8800.0,7811.15
+2026-02,Finance,6700,Professional Fees,5600.0,5607.76
+2026-02,Sales,6000,Salaries & Wages,87800.0,83066.89
+2026-02,Sales,6300,Travel - Airfare,9200.0,9342.27
+2026-02,Sales,6310,Travel - Hotels,5700.0,5843.74
+2026-02,Sales,6320,Meals & Entertainment,7000.0,7087.13
+2026-02,Marketing,6000,Salaries & Wages,64200.0,64949.54
+2026-02,Marketing,6800,Marketing & Advertising,5800.0,6407.59
+2026-02,Marketing,6320,Meals & Entertainment,9500.0,9350.42
+2026-02,Operations,6000,Salaries & Wages,88800.0,83535.9
+2026-02,Operations,6200,Utilities,4200.0,3903.53
+2026-02,Operations,6330,Local Transport,5900.0,6340.49
+2026-02,Operations,6400,Office Supplies,7200.0,7152.36
+2026-02,HR,6000,Salaries & Wages,44800.0,45808.43
+2026-02,HR,6900,Training & Development,5600.0,5137.64
+2026-02,IT,6000,Salaries & Wages,52400.0,53845.79
+2026-02,IT,6500,Software Subscriptions,10800.0,11213.57
+2026-02,IT,6600,Telecom & Internet,8200.0,8692.74
+2026-03,Finance,6000,Salaries & Wages,55600.0,55761.33
+2026-03,Finance,6400,Office Supplies,7600.0,6888.35
+2026-03,Finance,6500,Software Subscriptions,7500.0,7453.28
+2026-03,Finance,6700,Professional Fees,11500.0,11685.91
+2026-03,Sales,6000,Salaries & Wages,65300.0,66633.84
+2026-03,Sales,6300,Travel - Airfare,6200.0,6128.26
+2026-03,Sales,6310,Travel - Hotels,3500.0,2921.04
+2026-03,Sales,6320,Meals & Entertainment,8900.0,8947.25
+2026-03,Marketing,6000,Salaries & Wages,63500.0,59905.28
+2026-03,Marketing,6800,Marketing & Advertising,6900.0,6655.52
+2026-03,Marketing,6320,Meals & Entertainment,10900.0,10691.32
+2026-03,Operations,6000,Salaries & Wages,58300.0,55358.06
+2026-03,Operations,6200,Utilities,6600.0,6285.9
+2026-03,Operations,6330,Local Transport,8000.0,7820.02
+2026-03,Operations,6400,Office Supplies,3700.0,3196.87
+2026-03,HR,6000,Salaries & Wages,54000.0,53926.36
+2026-03,HR,6900,Training & Development,11900.0,11697.22
+2026-03,IT,6000,Salaries & Wages,88800.0,87586.22
+2026-03,IT,6500,Software Subscriptions,6500.0,6631.74
+2026-03,IT,6600,Telecom & Internet,11500.0,10695.81
+2026-04,Finance,6000,Salaries & Wages,77700.0,78574.94
+2026-04,Finance,6400,Office Supplies,7500.0,8179.41
+2026-04,Finance,6500,Software Subscriptions,3400.0,3559.53
+2026-04,Finance,6700,Professional Fees,7300.0,7698.69
+2026-04,Sales,6000,Salaries & Wages,62800.0,61018.92
+2026-04,Sales,6300,Travel - Airfare,6000.0,5642.22
+2026-04,Sales,6310,Travel - Hotels,8500.0,9585.67
+2026-04,Sales,6320,Meals & Entertainment,9700.0,11721.83
+2026-04,Marketing,6000,Salaries & Wages,55000.0,53400.36
+2026-04,Marketing,6800,Marketing & Advertising,7800.0,8803.07
+2026-04,Marketing,6320,Meals & Entertainment,9400.0,8974.32
+2026-04,Operations,6000,Salaries & Wages,58400.0,61465.99
+2026-04,Operations,6200,Utilities,9100.0,10056.12
+2026-04,Operations,6330,Local Transport,10200.0,10063.92
+2026-04,Operations,6400,Office Supplies,9500.0,9432.96
+2026-04,HR,6000,Salaries & Wages,63700.0,63289.08
+2026-04,HR,6900,Training & Development,11700.0,12032.44
+2026-04,IT,6000,Salaries & Wages,68900.0,65399.79
+2026-04,IT,6500,Software Subscriptions,9500.0,9097.82
+2026-04,IT,6600,Telecom & Internet,8700.0,8486.77
+2026-05,Finance,6000,Salaries & Wages,71000.0,71652.87
+2026-05,Finance,6400,Office Supplies,9100.0,8754.02
+2026-05,Finance,6500,Software Subscriptions,3300.0,3420.7
+2026-05,Finance,6700,Professional Fees,3200.0,3160.51
+2026-05,Sales,6000,Salaries & Wages,55700.0,57185.58
+2026-05,Sales,6300,Travel - Airfare,6700.0,7368.44
+2026-05,Sales,6310,Travel - Hotels,10000.0,11426.26
+2026-05,Sales,6320,Meals & Entertainment,9600.0,8853.1
+2026-05,Marketing,6000,Salaries & Wages,43100.0,43670.0
+2026-05,Marketing,6800,Marketing & Advertising,5900.0,6145.44
+2026-05,Marketing,6320,Meals & Entertainment,9000.0,8383.19
+2026-05,Operations,6000,Salaries & Wages,48700.0,48497.92
+2026-05,Operations,6200,Utilities,11200.0,10740.66
+2026-05,Operations,6330,Local Transport,9900.0,10519.58
+2026-05,Operations,6400,Office Supplies,9500.0,8774.06
+2026-05,HR,6000,Salaries & Wages,70500.0,67951.91
+2026-05,HR,6900,Training & Development,4700.0,4710.51
+2026-05,IT,6000,Salaries & Wages,51200.0,53162.54
+2026-05,IT,6500,Software Subscriptions,11800.0,11570.2
+2026-05,IT,6600,Telecom & Internet,4900.0,5209.39
+2026-06,Finance,6000,Salaries & Wages,75200.0,74345.62
+2026-06,Finance,6400,Office Supplies,11400.0,12170.88
+2026-06,Finance,6500,Software Subscriptions,10200.0,10138.9
+2026-06,Finance,6700,Professional Fees,9100.0,9467.13
+2026-06,Sales,6000,Salaries & Wages,59000.0,62243.94
+2026-06,Sales,6300,Travel - Airfare,11600.0,11386.88
+2026-06,Sales,6310,Travel - Hotels,10200.0,10031.02
+2026-06,Sales,6320,Meals & Entertainment,9400.0,9999.45
+2026-06,Marketing,6000,Salaries & Wages,57300.0,56062.47
+2026-06,Marketing,6800,Marketing & Advertising,7300.0,7459.24
+2026-06,Marketing,6320,Meals & Entertainment,4800.0,3933.2
+2026-06,Operations,6000,Salaries & Wages,74800.0,73547.57
+2026-06,Operations,6200,Utilities,4200.0,2520.0
+2026-06,Operations,6330,Local Transport,5200.0,4832.46
+2026-06,Operations,6400,Office Supplies,9000.0,7993.13
+2026-06,HR,6000,Salaries & Wages,42600.0,42246.94
+2026-06,HR,6900,Training & Development,6700.0,6649.75
+2026-06,IT,6000,Salaries & Wages,78500.0,77438.57
+2026-06,IT,6500,Software Subscriptions,3000.0,2475.25
+2026-06,IT,6600,Telecom & Internet,6700.0,6316.34
+2026-07,Finance,6000,Salaries & Wages,86800.0,88942.18
+2026-07,Finance,6400,Office Supplies,4800.0,4497.32
+2026-07,Finance,6500,Software Subscriptions,11700.0,11116.8
+2026-07,Finance,6700,Professional Fees,11200.0,12364.15
+2026-07,Sales,6000,Salaries & Wages,44500.0,43023.61
+2026-07,Sales,6300,Travel - Airfare,9500.0,9077.5
+2026-07,Sales,6310,Travel - Hotels,11400.0,11883.78
+2026-07,Sales,6320,Meals & Entertainment,10900.0,10619.45
+2026-07,Marketing,6000,Salaries & Wages,48800.0,53189.47
+2026-07,Marketing,6800,Marketing & Advertising,6600.0,9570.0
+2026-07,Marketing,6320,Meals & Entertainment,7500.0,8915.08
+2026-07,Operations,6000,Salaries & Wages,86300.0,83730.63
+2026-07,Operations,6200,Utilities,10900.0,12027.82
+2026-07,Operations,6330,Local Transport,4000.0,4024.13
+2026-07,Operations,6400,Office Supplies,11800.0,11188.55
+2026-07,HR,6000,Salaries & Wages,67200.0,73118.37
+2026-07,HR,6900,Training & Development,7400.0,8470.28
+2026-07,IT,6000,Salaries & Wages,63400.0,62002.44
+2026-07,IT,6500,Software Subscriptions,4700.0,4870.13
+2026-07,IT,6600,Telecom & Internet,7100.0,7319.92
+2026-08,Finance,6000,Salaries & Wages,52900.0,53911.59
+2026-08,Finance,6400,Office Supplies,10100.0,11315.22
+2026-08,Finance,6500,Software Subscriptions,8100.0,8118.41
+2026-08,Finance,6700,Professional Fees,10700.0,10168.77
+2026-08,Sales,6000,Salaries & Wages,84900.0,86325.64
+2026-08,Sales,6300,Travel - Airfare,3800.0,5510.0
+2026-08,Sales,6310,Travel - Hotels,9000.0,9157.92
+2026-08,Sales,6320,Meals & Entertainment,5900.0,6138.33
+2026-08,Marketing,6000,Salaries & Wages,52400.0,52321.99
+2026-08,Marketing,6800,Marketing & Advertising,9800.0,10373.26
+2026-08,Marketing,6320,Meals & Entertainment,11600.0,11123.33
+2026-08,Operations,6000,Salaries & Wages,40600.0,42448.31
+2026-08,Operations,6200,Utilities,8900.0,8810.26
+2026-08,Operations,6330,Local Transport,4100.0,3990.04
+2026-08,Operations,6400,Office Supplies,5800.0,5345.7
+2026-08,HR,6000,Salaries & Wages,84800.0,86483.24
+2026-08,HR,6900,Training & Development,9300.0,9160.99
+2026-08,IT,6000,Salaries & Wages,85800.0,86993.22
+2026-08,IT,6500,Software Subscriptions,5700.0,5458.92
+2026-08,IT,6600,Telecom & Internet,4200.0,4044.13
+2026-09,Finance,6000,Salaries & Wages,47700.0,47672.21
+2026-09,Finance,6400,Office Supplies,6700.0,5968.78
+2026-09,Finance,6500,Software Subscriptions,7900.0,7128.27
+2026-09,Finance,6700,Professional Fees,9000.0,9162.98
+2026-09,Sales,6000,Salaries & Wages,50900.0,50940.77
+2026-09,Sales,6300,Travel - Airfare,10900.0,12361.78
+2026-09,Sales,6310,Travel - Hotels,3700.0,3263.88
+2026-09,Sales,6320,Meals & Entertainment,3700.0,3851.62
+2026-09,Marketing,6000,Salaries & Wages,68200.0,70585.54
+2026-09,Marketing,6800,Marketing & Advertising,7500.0,7785.96
+2026-09,Marketing,6320,Meals & Entertainment,8200.0,8544.31
+2026-09,Operations,6000,Salaries & Wages,66000.0,67427.6
+2026-09,Operations,6200,Utilities,4000.0,4117.08
+2026-09,Operations,6330,Local Transport,3800.0,4186.47
+2026-09,Operations,6400,Office Supplies,7600.0,7840.9
+2026-09,HR,6000,Salaries & Wages,65700.0,63679.17
+2026-09,HR,6900,Training & Development,7100.0,7691.62
+2026-09,IT,6000,Salaries & Wages,80300.0,81252.41
+2026-09,IT,6500,Software Subscriptions,9500.0,13775.0
+2026-09,IT,6600,Telecom & Internet,9700.0,10569.03

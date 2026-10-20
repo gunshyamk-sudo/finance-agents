@@ -1,0 +1,10 @@
+rule_id,account_code,category,limit_aed,rule_text,receipt_required_above_aed
+P01,6320.0,Meals & Entertainment,500.0,Client meals above AED 500 need pre-approval from department head,100
+P02,6310.0,Travel - Hotels,1200.0,"Hotel cost per night must not exceed AED 1,200",0
+P03,6300.0,Travel - Airfare,4000.0,"Economy class only; tickets above AED 4,000 need CFO approval",0
+P04,6330.0,Local Transport,150.0,Single local transport claims above AED 150 need explanation,50
+P05,6400.0,Office Supplies,400.0,Office supply claims above AED 400 must go through procurement,100
+P06,6500.0,Software Subscriptions,300.0,Software must be approved by IT; claims above AED 300 need IT approval,0
+P07,6800.0,Marketing & Advertising,3000.0,"Marketing spend above AED 3,000 needs a purchase order",0
+P08,6900.0,Training & Development,600.0,Training above AED 600 needs HR approval,0
+P09,,All categories,,Receipts are required for every claim above the receipt threshold; weekend claims need a business reason,0

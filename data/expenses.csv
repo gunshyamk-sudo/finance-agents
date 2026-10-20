@@ -1,0 +1,202 @@
+expense_id,date,employee,department,merchant,description,amount_aed,payment_method,receipt_attached
+EXP0001,2026-08-01,Chen Wei,Sales,Zoom,Zoom Pro monthly,108.13,Personal card (reimburse),Yes
+EXP0002,2026-08-28,Maria Lopez,Operations,Emirates,Flight DXB-LHR client meeting,2845.44,Corporate card,Yes
+EXP0003,2026-07-09,Chen Wei,Sales,Zuma,Client dinner 4 people,1587.83,Corporate card,Yes
+EXP0004,2026-07-15,Fatima Ali,HR,Operation Falafel,Lunch with prospect,191.49,Corporate card,Yes
+EXP0005,2026-08-25,Aisha Khan,Sales,Hilton,Hotel stay London conference,1825.21,Corporate card,Yes
+EXP0006,2026-07-25,Chen Wei,Sales,Careem,Taxi to client office,110.45,Personal card (reimburse),Yes
+EXP0007,2026-09-24,Fatima Ali,HR,RTA Nol,Metro top-up,71.56,Personal card (reimburse),Yes
+EXP0008,2026-09-24,John Smith,IT,Starbucks,Coffee with client,95.78,Corporate card,Yes
+EXP0009,2026-09-24,Omar Haddad,Operations,Carrefour,Office pantry supplies,157.55,Personal card (reimburse),Yes
+EXP0010,2026-07-01,John Smith,IT,Adobe,Adobe Acrobat Pro licence,149.03,Corporate card,Yes
+EXP0011,2026-09-25,Maria Lopez,Operations,Uber,Airport transfer,104.18,Corporate card,Yes
+EXP0012,2026-09-23,Rahul Mehta,Finance,Adobe,Adobe Acrobat Pro licence,128.24,Corporate card,Yes
+EXP0013,2026-07-26,John Smith,IT,Emirates,Flight DXB-LHR client meeting,2855.81,Corporate card,Yes
+EXP0014,2026-09-19,Rahul Mehta,Finance,Operation Falafel,Lunch with prospect,123.76,Personal card (reimburse),Yes
+EXP0015,2026-09-22,Chen Wei,Sales,Sharaf DG,USB-C cables and mouse,118.56,Corporate card,Yes
+EXP0016,2026-09-28,Omar Haddad,Operations,Adobe,Adobe Acrobat Pro licence,216.7,Corporate card,Yes
+EXP0017,2026-08-29,Maria Lopez,Operations,Careem,Taxi to client office,37.67,Personal card (reimburse),Yes
+EXP0018,2026-09-09,Chen Wei,Sales,Sharaf DG,USB-C cables and mouse,259.34,Corporate card,Yes
+EXP0019,2026-08-01,Maria Lopez,Operations,Anthropic,Claude Pro subscription,75.18,Corporate card,Yes
+EXP0020,2026-07-10,Priya Nair,Marketing,Anthropic,Claude Pro subscription,75.49,Corporate card,Yes
+EXP0021,2026-07-30,Rahul Mehta,Finance,Talabat,Team lunch during month-end,212.27,Corporate card,Yes
+EXP0022,2026-09-08,Chen Wei,Sales,Microsoft,Microsoft 365 monthly subscription,333.42,Corporate card,Yes
+EXP0023,2026-09-13,Chen Wei,Sales,Hilton,Hotel stay London conference,4214.52,Corporate card,Yes
+EXP0024,2026-08-15,Chen Wei,Sales,Printing Hub,Trade show brochures,872.38,Corporate card,Yes
+EXP0025,2026-08-04,Priya Nair,Marketing,LinkedIn,Sponsored post,1425.28,Corporate card,Yes
+EXP0026,2026-07-17,Omar Haddad,Operations,Operation Falafel,Lunch with prospect,177.67,Personal card (reimburse),Yes
+EXP0027,2026-08-24,Aisha Khan,Sales,flydubai,Flight DXB-RUH sales visit,700.74,Corporate card,Yes
+EXP0028,2026-08-28,Chen Wei,Sales,Hilton,Hotel stay London conference,2482.06,Corporate card,Yes
+EXP0029,2026-08-30,John Smith,IT,Operation Falafel,Lunch with prospect,176.89,Personal card (reimburse),No
+EXP0030,2026-09-22,Priya Nair,Marketing,flydubai,Flight DXB-RUH sales visit,1380.17,Corporate card,No
+EXP0031,2026-07-31,Aisha Khan,Sales,Coursera,Online course certificate,367.47,Personal card (reimburse),Yes
+EXP0032,2026-08-17,Maria Lopez,Operations,Marriott,Hotel 2 nights Riyadh,1949.2,Personal card (reimburse),Yes
+EXP0033,2026-07-21,Rahul Mehta,Finance,Udemy,Excel modelling course,125.56,Corporate card,Yes
+EXP0034,2026-09-30,Chen Wei,Sales,Uber,Airport transfer,99.67,Personal card (reimburse),Yes
+EXP0035,2026-08-08,Priya Nair,Marketing,Carrefour,Office pantry supplies,130.57,Personal card (reimburse),Yes
+EXP0036,2026-09-23,Fatima Ali,HR,du,Mobile postpaid bill,283.19,Personal card (reimburse),Yes
+EXP0037,2026-07-14,Chen Wei,Sales,Amazon.ae,Printer paper and toner,384.26,Corporate card,Yes
+EXP0038,2026-09-05,Omar Haddad,Operations,Sharaf DG,USB-C cables and mouse,164.52,Corporate card,Yes
+EXP0039,2026-09-14,Maria Lopez,Operations,Carrefour,Office pantry supplies,239.46,Corporate card,Yes
+EXP0040,2026-08-01,John Smith,IT,du,Mobile postpaid bill,370.41,Personal card (reimburse),Yes
+EXP0041,2026-08-11,Fatima Ali,HR,Sharaf DG,USB-C cables and mouse,66.89,Corporate card,Yes
+EXP0042,2026-09-15,Fatima Ali,HR,Talabat,Team lunch during month-end,275.85,Corporate card,Yes
+EXP0043,2026-08-22,Rahul Mehta,Finance,RTA Nol,Metro top-up,62.07,Corporate card,Yes
+EXP0044,2026-07-03,Maria Lopez,Operations,Carrefour,Office pantry supplies,234.45,Corporate card,Yes
+EXP0045,2026-08-17,John Smith,IT,Zuma,Client dinner 4 people,2393.5,Personal card (reimburse),Yes
+EXP0046,2026-08-04,Fatima Ali,HR,Talabat,Team lunch during month-end,466.28,Corporate card,Yes
+EXP0047,2026-09-07,Fatima Ali,HR,Marriott,Hotel 2 nights Riyadh,1079.33,Personal card (reimburse),Yes
+EXP0048,2026-09-14,Maria Lopez,Operations,Marriott,Hotel 2 nights Riyadh,1314.75,Personal card (reimburse),Yes
+EXP0049,2026-08-16,Priya Nair,Marketing,Amazon.ae,Printer paper and toner,189.61,Corporate card,Yes
+EXP0050,2026-07-07,John Smith,IT,Adobe,Adobe Acrobat Pro licence,87.74,Personal card (reimburse),Yes
+EXP0051,2026-07-02,Maria Lopez,Operations,Udemy,Excel modelling course,51.28,Corporate card,Yes
+EXP0052,2026-08-02,Omar Haddad,Operations,Uber,Airport transfer,156.55,Corporate card,Yes
+EXP0053,2026-09-12,Chen Wei,Sales,Marriott,Hotel 2 nights Riyadh,1637.62,Corporate card,Yes
+EXP0054,2026-08-01,John Smith,IT,Rove Hotels,1 night hotel Abu Dhabi,379.81,Corporate card,Yes
+EXP0055,2026-08-18,Priya Nair,Marketing,Carrefour,Office pantry supplies,332.71,Corporate card,Yes
+EXP0056,2026-07-08,John Smith,IT,Operation Falafel,Lunch with prospect,139.61,Personal card (reimburse),Yes
+EXP0057,2026-07-11,Priya Nair,Marketing,Emirates,Flight DXB-LHR client meeting,3043.84,Corporate card,Yes
+EXP0058,2026-09-27,Aisha Khan,Sales,RTA Nol,Metro top-up,70.43,Corporate card,Yes
+EXP0059,2026-08-28,John Smith,IT,flydubai,Flight DXB-RUH sales visit,1443.59,Corporate card,No
+EXP0060,2026-09-08,Priya Nair,Marketing,Udemy,Excel modelling course,86.77,Corporate card,Yes
+EXP0061,2026-08-09,Rahul Mehta,Finance,Google Ads,Search ads campaign,708.73,Personal card (reimburse),Yes
+EXP0062,2026-08-08,Rahul Mehta,Finance,ACCA,CPD webinar fee,481.22,Corporate card,Yes
+EXP0063,2026-07-06,Maria Lopez,Operations,Salik,Toll charges,24.83,Personal card (reimburse),Yes
+EXP0064,2026-09-25,Aisha Khan,Sales,Talabat,Team lunch during month-end,191.1,Personal card (reimburse),Yes
+EXP0065,2026-07-23,John Smith,IT,Careem,Taxi to client office,79.74,Personal card (reimburse),Yes
+EXP0066,2026-08-25,Omar Haddad,Operations,Uber,Airport transfer,159.69,Corporate card,Yes
+EXP0067,2026-08-11,Fatima Ali,HR,ACCA,CPD webinar fee,445.01,Corporate card,Yes
+EXP0068,2026-08-21,John Smith,IT,Operation Falafel,Lunch with prospect,152.76,Personal card (reimburse),Yes
+EXP0069,2026-07-15,Fatima Ali,HR,Emirates,Flight DXB-LHR client meeting,2986.27,Corporate card,Yes
+EXP0070,2026-07-25,Maria Lopez,Operations,Google Ads,Search ads campaign,1946.37,Personal card (reimburse),Yes
+EXP0071,2026-09-09,Aisha Khan,Sales,Anthropic,Claude Pro subscription,74.07,Corporate card,Yes
+EXP0072,2026-09-19,Rahul Mehta,Finance,Salik,Toll charges,21.73,Corporate card,Yes
+EXP0073,2026-07-12,Aisha Khan,Sales,Zoom,Zoom Pro monthly,93.14,Corporate card,Yes
+EXP0074,2026-09-30,Omar Haddad,Operations,Careem,Taxi to client office,72.35,Personal card (reimburse),Yes
+EXP0075,2026-09-09,Maria Lopez,Operations,Operation Falafel,Lunch with prospect,94.12,Corporate card,Yes
+EXP0076,2026-08-05,Omar Haddad,Operations,Udemy,Excel modelling course,135.04,Corporate card,Yes
+EXP0077,2026-08-08,Aisha Khan,Sales,Talabat,Team lunch during month-end,277.28,Personal card (reimburse),Yes
+EXP0078,2026-08-31,Omar Haddad,Operations,Legal Advisors LLC,Contract review fees,3509.46,Personal card (reimburse),Yes
+EXP0079,2026-07-25,Maria Lopez,Operations,Anthropic,Claude Pro subscription,88.66,Corporate card,Yes
+EXP0080,2026-08-30,Chen Wei,Sales,RTA Nol,Metro top-up,52.18,Corporate card,Yes
+EXP0081,2026-07-17,Maria Lopez,Operations,Zuma,Client dinner 4 people,3115.58,Personal card (reimburse),Yes
+EXP0082,2026-08-28,Maria Lopez,Operations,Starbucks,Coffee with client,50.97,Corporate card,No
+EXP0083,2026-08-03,Rahul Mehta,Finance,RTA Nol,Metro top-up,73.47,Personal card (reimburse),Yes
+EXP0084,2026-09-07,Fatima Ali,HR,Starbucks,Coffee with client,133.76,Corporate card,Yes
+EXP0085,2026-07-31,Aisha Khan,Sales,Sharaf DG,USB-C cables and mouse,208.19,Corporate card,Yes
+EXP0086,2026-09-20,Chen Wei,Sales,Legal Advisors LLC,Contract review fees,5902.52,Corporate card,Yes
+EXP0087,2026-07-08,Aisha Khan,Sales,Uber,Airport transfer,64.6,Corporate card,Yes
+EXP0088,2026-07-24,Chen Wei,Sales,RTA Nol,Metro top-up,78.3,Corporate card,Yes
+EXP0089,2026-09-13,Priya Nair,Marketing,Sharaf DG,USB-C cables and mouse,179.44,Corporate card,Yes
+EXP0090,2026-08-29,John Smith,IT,Sharaf DG,USB-C cables and mouse,220.04,Personal card (reimburse),Yes
+EXP0091,2026-09-14,Maria Lopez,Operations,Careem,Taxi to client office,114.8,Corporate card,Yes
+EXP0092,2026-08-19,John Smith,IT,Sharaf DG,USB-C cables and mouse,107.81,Corporate card,Yes
+EXP0093,2026-08-07,John Smith,IT,Talabat,Team lunch during month-end,596.71,Personal card (reimburse),No
+EXP0094,2026-09-02,Aisha Khan,Sales,Starbucks,Coffee with client,140.17,Corporate card,Yes
+EXP0095,2026-07-25,Fatima Ali,HR,Adobe,Adobe Acrobat Pro licence,117.23,Personal card (reimburse),Yes
+EXP0096,2026-09-21,Rahul Mehta,Finance,Adobe,Adobe Acrobat Pro licence,233.58,Corporate card,No
+EXP0097,2026-08-07,Omar Haddad,Operations,flydubai,Flight DXB-RUH sales visit,708.16,Corporate card,Yes
+EXP0098,2026-08-04,Fatima Ali,HR,Marriott,Hotel 2 nights Riyadh,1696.28,Corporate card,Yes
+EXP0099,2026-08-13,John Smith,IT,LinkedIn,Sponsored post,1967.77,Corporate card,Yes
+EXP0100,2026-09-25,Priya Nair,Marketing,Coursera,Online course certificate,451.05,Personal card (reimburse),Yes
+EXP0101,2026-07-16,Aisha Khan,Sales,Operation Falafel,Lunch with prospect,97.02,Personal card (reimburse),Yes
+EXP0102,2026-08-17,Chen Wei,Sales,Zoom,Zoom Pro monthly,109.35,Corporate card,Yes
+EXP0103,2026-09-20,Priya Nair,Marketing,Uber,Airport transfer,124.77,Personal card (reimburse),Yes
+EXP0104,2026-07-05,Rahul Mehta,Finance,Operation Falafel,Lunch with prospect,79.57,Corporate card,Yes
+EXP0105,2026-08-17,Omar Haddad,Operations,Marriott,Hotel 2 nights Riyadh,1482.97,Personal card (reimburse),Yes
+EXP0106,2026-07-20,Chen Wei,Sales,Carrefour,Office pantry supplies,276.2,Personal card (reimburse),Yes
+EXP0107,2026-08-05,Chen Wei,Sales,flydubai,Flight DXB-RUH sales visit,1726.86,Corporate card,No
+EXP0108,2026-07-13,Priya Nair,Marketing,Operation Falafel,Lunch with prospect,179.76,Corporate card,Yes
+EXP0109,2026-07-25,Aisha Khan,Sales,Uber,Airport transfer,99.81,Corporate card,Yes
+EXP0110,2026-08-12,Aisha Khan,Sales,Emirates,Flight DXB-LHR client meeting,2037.72,Corporate card,Yes
+EXP0111,2026-09-09,Rahul Mehta,Finance,Adobe,Adobe Acrobat Pro licence,221.07,Corporate card,Yes
+EXP0112,2026-09-15,Fatima Ali,HR,du,Mobile postpaid bill,343.59,Corporate card,No
+EXP0113,2026-07-04,Omar Haddad,Operations,Legal Advisors LLC,Contract review fees,1994.67,Corporate card,Yes
+EXP0114,2026-08-03,Fatima Ali,HR,Adobe,Adobe Acrobat Pro licence,82.68,Personal card (reimburse),No
+EXP0115,2026-08-16,Rahul Mehta,Finance,Careem,Taxi to client office,70.24,Corporate card,Yes
+EXP0116,2026-09-23,Aisha Khan,Sales,RTA Nol,Metro top-up,86.36,Corporate card,Yes
+EXP0117,2026-08-21,Aisha Khan,Sales,Amazon.ae,Printer paper and toner,449.48,Corporate card,Yes
+EXP0118,2026-08-11,Rahul Mehta,Finance,Salik,Toll charges,73.96,Corporate card,Yes
+EXP0119,2026-09-15,Fatima Ali,HR,Rove Hotels,1 night hotel Abu Dhabi,483.32,Corporate card,Yes
+EXP0120,2026-07-15,Rahul Mehta,Finance,Salik,Toll charges,67.59,Personal card (reimburse),Yes
+EXP0121,2026-07-30,Priya Nair,Marketing,Printing Hub,Trade show brochures,816.08,Corporate card,Yes
+EXP0122,2026-09-24,Fatima Ali,HR,Starbucks,Coffee with client,86.94,Corporate card,Yes
+EXP0123,2026-07-11,Rahul Mehta,Finance,Sharaf DG,USB-C cables and mouse,81.89,Corporate card,Yes
+EXP0124,2026-09-14,Omar Haddad,Operations,Zoom,Zoom Pro monthly,93.38,Personal card (reimburse),Yes
+EXP0125,2026-09-24,Chen Wei,Sales,Starbucks,Coffee with client,78.9,Corporate card,Yes
+EXP0126,2026-09-15,Aisha Khan,Sales,Printing Hub,Trade show brochures,1462.08,Corporate card,Yes
+EXP0127,2026-07-29,Omar Haddad,Operations,RTA Nol,Metro top-up,82.84,Corporate card,Yes
+EXP0128,2026-09-12,Rahul Mehta,Finance,Etisalat (e&),Home internet reimbursement,414.39,Corporate card,Yes
+EXP0129,2026-08-04,John Smith,IT,du,Mobile postpaid bill,157.24,Corporate card,Yes
+EXP0130,2026-07-19,Aisha Khan,Sales,ACCA,CPD webinar fee,308.84,Corporate card,Yes
+EXP0131,2026-09-06,Aisha Khan,Sales,Etihad Airways,Return flight AUH-BOM,1046.81,Corporate card,Yes
+EXP0132,2026-08-11,Fatima Ali,HR,RTA Nol,Metro top-up,65.58,Personal card (reimburse),Yes
+EXP0133,2026-09-18,Omar Haddad,Operations,Amazon.ae,Printer paper and toner,138.24,Corporate card,No
+EXP0134,2026-08-23,Maria Lopez,Operations,Operation Falafel,Lunch with prospect,144.99,Personal card (reimburse),Yes
+EXP0135,2026-09-25,Rahul Mehta,Finance,Hilton,Hotel stay London conference,2349.74,Personal card (reimburse),Yes
+EXP0136,2026-09-15,Priya Nair,Marketing,Amazon.ae,Printer paper and toner,226.25,Corporate card,No
+EXP0137,2026-08-07,Omar Haddad,Operations,Zuma,Client dinner 4 people,2633.99,Corporate card,Yes
+EXP0138,2026-09-07,Omar Haddad,Operations,Salik,Toll charges,27.75,Personal card (reimburse),Yes
+EXP0139,2026-07-06,Rahul Mehta,Finance,Uber,Airport transfer,99.71,Corporate card,Yes
+EXP0140,2026-09-29,Chen Wei,Sales,ACCA,CPD webinar fee,544.04,Corporate card,Yes
+EXP0141,2026-09-18,Fatima Ali,HR,Marriott,Hotel 2 nights Riyadh,1157.81,Personal card (reimburse),Yes
+EXP0142,2026-08-01,Chen Wei,Sales,Coursera,Online course certificate,445.57,Corporate card,Yes
+EXP0143,2026-07-29,John Smith,IT,Salik,Toll charges,64.75,Corporate card,Yes
+EXP0144,2026-07-25,Rahul Mehta,Finance,Etihad Airways,Return flight AUH-BOM,1748.97,Corporate card,Yes
+EXP0145,2026-08-02,Priya Nair,Marketing,Zuma,Client dinner 4 people,1046.73,Personal card (reimburse),Yes
+EXP0146,2026-09-19,Rahul Mehta,Finance,Rove Hotels,1 night hotel Abu Dhabi,412.0,Personal card (reimburse),Yes
+EXP0147,2026-09-19,Fatima Ali,HR,Anthropic,Claude Pro subscription,87.28,Corporate card,Yes
+EXP0148,2026-09-14,John Smith,IT,flydubai,Flight DXB-RUH sales visit,1555.6,Personal card (reimburse),No
+EXP0149,2026-08-17,Maria Lopez,Operations,flydubai,Flight DXB-RUH sales visit,645.13,Corporate card,Yes
+EXP0150,2026-09-09,Chen Wei,Sales,Amazon.ae,Printer paper and toner,251.2,Personal card (reimburse),Yes
+EXP0151,2026-08-30,Priya Nair,Marketing,LinkedIn,Sponsored post,1075.21,Corporate card,Yes
+EXP0152,2026-07-23,Rahul Mehta,Finance,Uber,Airport transfer,110.45,Personal card (reimburse),No
+EXP0153,2026-08-06,Omar Haddad,Operations,Salik,Toll charges,41.83,Corporate card,Yes
+EXP0154,2026-07-13,Fatima Ali,HR,Amazon.ae,Printer paper and toner,104.39,Corporate card,Yes
+EXP0155,2026-09-23,Fatima Ali,HR,Zuma,Client dinner 4 people,995.6,Corporate card,Yes
+EXP0156,2026-07-11,Omar Haddad,Operations,Operation Falafel,Lunch with prospect,143.31,Corporate card,Yes
+EXP0157,2026-09-26,Omar Haddad,Operations,Sharaf DG,USB-C cables and mouse,220.83,Corporate card,Yes
+EXP0158,2026-08-09,Fatima Ali,HR,Sharaf DG,USB-C cables and mouse,64.38,Corporate card,Yes
+EXP0159,2026-07-18,Priya Nair,Marketing,Operation Falafel,Lunch with prospect,91.72,Corporate card,Yes
+EXP0160,2026-09-18,Aisha Khan,Sales,du,Mobile postpaid bill,315.48,Corporate card,Yes
+EXP0161,2026-07-06,Omar Haddad,Operations,Marriott,Hotel 2 nights Riyadh,1981.77,Personal card (reimburse),Yes
+EXP0162,2026-08-27,John Smith,IT,Anthropic,Claude Pro subscription,85.05,Corporate card,Yes
+EXP0163,2026-09-12,Priya Nair,Marketing,Operation Falafel,Lunch with prospect,111.5,Corporate card,Yes
+EXP0164,2026-07-26,Chen Wei,Sales,Anthropic,Claude Pro subscription,89.33,Corporate card,Yes
+EXP0165,2026-09-09,Maria Lopez,Operations,Google Ads,Search ads campaign,3559.41,Personal card (reimburse),Yes
+EXP0166,2026-07-21,John Smith,IT,du,Mobile postpaid bill,170.97,Personal card (reimburse),Yes
+EXP0167,2026-07-29,Rahul Mehta,Finance,Hilton,Hotel stay London conference,4339.24,Corporate card,Yes
+EXP0168,2026-08-17,Aisha Khan,Sales,ACCA,CPD webinar fee,437.87,Corporate card,Yes
+EXP0169,2026-09-30,Fatima Ali,HR,Starbucks,Coffee with client,142.39,Corporate card,Yes
+EXP0170,2026-07-18,Maria Lopez,Operations,Hilton,Hotel stay London conference,3588.22,Corporate card,Yes
+EXP0171,2026-07-28,Rahul Mehta,Finance,Careem,Taxi to client office,26.81,Personal card (reimburse),Yes
+EXP0172,2026-08-06,Chen Wei,Sales,Udemy,Excel modelling course,52.23,Corporate card,Yes
+EXP0173,2026-09-02,Maria Lopez,Operations,flydubai,Flight DXB-RUH sales visit,675.37,Corporate card,Yes
+EXP0174,2026-08-07,Priya Nair,Marketing,Carrefour,Office pantry supplies,315.56,Personal card (reimburse),Yes
+EXP0175,2026-07-11,Omar Haddad,Operations,Operation Falafel,Lunch with prospect,153.01,Corporate card,Yes
+EXP0176,2026-08-30,Aisha Khan,Sales,Etihad Airways,Return flight AUH-BOM,1524.73,Corporate card,No
+EXP0177,2026-07-09,Aisha Khan,Sales,Legal Advisors LLC,Contract review fees,3106.92,Personal card (reimburse),Yes
+EXP0178,2026-08-15,Fatima Ali,HR,Amazon.ae,Printer paper and toner,129.36,Personal card (reimburse),Yes
+EXP0179,2026-08-31,Maria Lopez,Operations,Rove Hotels,1 night hotel Abu Dhabi,693.29,Corporate card,Yes
+EXP0180,2026-07-06,Aisha Khan,Sales,flydubai,Flight DXB-RUH sales visit,952.13,Corporate card,Yes
+EXP0181,2026-09-08,Chen Wei,Sales,Talabat,Team lunch during month-end,595.11,Corporate card,Yes
+EXP0182,2026-07-07,John Smith,IT,Adobe,Adobe Acrobat Pro licence,140.69,Corporate card,Yes
+EXP0183,2026-08-26,Chen Wei,Sales,Talabat,Team lunch during month-end,550.27,Corporate card,Yes
+EXP0184,2026-08-17,Maria Lopez,Operations,Zuma,Client dinner 4 people,2460.96,Personal card (reimburse),Yes
+EXP0185,2026-09-16,Chen Wei,Sales,Starbucks,Coffee with client,48.68,Corporate card,Yes
+EXP0186,2026-09-23,Rahul Mehta,Finance,Uber,Airport transfer,68.01,Corporate card,Yes
+EXP0187,2026-08-14,Omar Haddad,Operations,Sharaf DG,USB-C cables and mouse,225.54,Personal card (reimburse),Yes
+EXP0188,2026-07-08,Chen Wei,Sales,LinkedIn,Sponsored post,976.57,Personal card (reimburse),No
+EXP0189,2026-09-16,Aisha Khan,Sales,RTA Nol,Metro top-up,57.14,Corporate card,Yes
+EXP0190,2026-08-16,Priya Nair,Marketing,Emirates,Flight DXB-LHR client meeting,5459.02,Personal card (reimburse),Yes
+EXP0191,2026-08-17,Maria Lopez,Operations,Emirates,Flight DXB-LHR client meeting,6259.47,Corporate card,Yes
+EXP0192,2026-08-05,Chen Wei,Sales,Uber,Airport transfer,91.44,Corporate card,Yes
+EXP0193,2026-09-10,Maria Lopez,Operations,Emirates,Flight DXB-LHR client meeting,4233.4,Corporate card,Yes
+EXP0194,2026-09-01,John Smith,IT,Adobe,Adobe Acrobat Pro licence,197.98,Corporate card,Yes
+EXP0195,2026-08-26,Omar Haddad,Operations,LinkedIn,Sponsored post,2287.23,Personal card (reimburse),Yes
+EXP0196,2026-09-09,Fatima Ali,HR,ACCA,CPD webinar fee,625.72,Corporate card,Yes
+EXP0197,2026-09-04,Omar Haddad,Operations,Printing Hub,Trade show brochures,1252.44,Corporate card,Yes
+EXP0198,2026-09-09,Maria Lopez,Operations,Adobe,Adobe Acrobat Pro licence,84.47,Corporate card,Yes
+EXP0199,2026-08-20,Rahul Mehta,Finance,du,Mobile postpaid bill,166.44,Personal card (reimburse),Yes
+EXP0200,2026-07-10,Chen Wei,Sales,Salik,Toll charges,69.4,Corporate card,Yes
+EXP0201,2026-09-25,Maria Lopez,Operations,Uber,Airport transfer,104.18,Corporate card,Yes
