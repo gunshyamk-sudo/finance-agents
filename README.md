@@ -19,3 +19,19 @@ Then open .env and paste your API key.
     python day04_trial_balance.py
 
 All data is fictional and generated for learning.
+
+
+## My finance agent ideas
+
+| # | Task I did manually | Hours / month | Data used | Risk if AI gets it wrong |
+|---|---------------------|---------------|-----------|--------------------------|
+| 1 | Coding supplier invoices to GL accounts | 20 | Invoices (PDF), chart of accounts | Wrong P&L classification |
+| 2 | Bank reconciliation | 12 | Bank statement, GL cash | Missed errors or fraud |
+| 3 | Monthly variance commentary | 8 | Budget vs actual | Misleading management report |
+| 4 | Chasing overdue customer invoices | 10 | AR ageing, emails | Upsetting good customers |
+| 5 | Checking expense claims against policy | 15 | Expense claims, policy | Policy breaches missed |
+| 6 | VAT return preparation checks | 6 | Sales/purchase ledgers | Penalties from FTA |
+| 7 | Intercompany matching | 8 | Entity ledgers | Consolidation errors |
+| 8 | Month-end accrual listing | 5 | AP ledger, POs | Misstated expenses |
+| 9 | Duplicate payment checks | 4 | AP payment runs | Cash loss |
+| 10 | Answering policy questions from staff | 6 | Finance policy manual | Wrong guidance given |
